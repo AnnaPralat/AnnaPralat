@@ -3,37 +3,37 @@
 <table>
     <tr>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/python.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/python.png"/>
             <br>Python
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
             <br>C++
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
             <br>C
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
             <br>HTML 5
         </td>
     </tr>
     <tr>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/windows/96/000000/r-project.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/windows/96/000000/r-project.png"/>
             <br>R
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/ios/100/000000/sql.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/ios/100/000000/sql.png"/>
             <br>SQL
         </td>
         <td align="center" width="96">
-            <img width="192" height="96" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">
+            <img width="192" height="64" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">
             <br>LaTeX
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/css3.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/css3.png"/>
             <br>CSS 3
         </td>
     </tr>
@@ -43,19 +43,19 @@
 <table>
     <tr>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/javascript.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/javascript.png"/>
             <br>JavaScript
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/python.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/python.png"/>
             <br>Python
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
             <br>C++
         </td>
         <td align="center" width="96">
-            <img width="96" height="96" src="https://img.icons8.com/ios/100/000000/sql.png"/>
+            <img width="96" height="64" src="https://img.icons8.com/ios/100/000000/sql.png"/>
             <br>SQL
         </td>
     </tr>
