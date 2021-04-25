@@ -16,7 +16,7 @@
         </td>
         <td align="center" width="96">
             <img width="96" height="64" src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-            <br>HTML 5
+            <br>HTML5
         </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@
         </td>
         <td align="center" width="96">
             <img width="96" height="64" src="https://img.icons8.com/color/96/000000/css3.png"/>
-            <br>CSS 3
+            <br>CSS3
         </td>
     </tr>
 </table>
