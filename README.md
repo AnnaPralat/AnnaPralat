@@ -5,7 +5,7 @@
 
 - ⚡ Making many projects in **Python**
 
-- 👨‍💻 My next project: **Discord Authentication** (NestJS, TypeORM, PassportJS, PostgreSQL, Docker)
+- 👨‍💻 My next project: **Discord Authentication** (NestJS, TypeORM, GraphQL, PassportJS, PostgreSQL, Docker)
 
 <h3 align="left">Favourite Languages:</h3>
 <p align="left">
