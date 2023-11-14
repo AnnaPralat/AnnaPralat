@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ann</h1>
-<h3 align="center">Junior Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **React and Node.js frameworks**
 
