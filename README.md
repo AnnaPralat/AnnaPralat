@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Ann 👋</h1>
-<h3 align="center">AI Engineer</h3>
 
 - 🌱 I’m currently learning **AI related stuff and Azure**
   
